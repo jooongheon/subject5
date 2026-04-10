@@ -1,10 +1,12 @@
 name = input("이름을 입력하세요 : ")
 student_id = input("학번을 입력하세요 : ")
 department = input("학과를 입력하세요 : ")
+university = input("학교를 입력하세요 : ")
 grade = input("학년을 입력하세요 : ")
 
 print("<출력>")
 print(name)
 print(student_id)
 print(department)
+print(university)
 print(grade)
